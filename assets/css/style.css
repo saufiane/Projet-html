@@ -1,0 +1,40 @@
+.text-center {
+  text-align: center;
+}
+
+.h1 {
+  font-family: "segoe script";
+  font-size: 25px;
+  text-decoration: underline;
+  text-align: justify;
+}
+
+.p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.slogan {
+  font-family: elephant;
+  color: red;
+  font-size: 25px;
+  text-align: center;
+}
+
+html {
+  font-size: 20px;
+}
+
+.test {
+  border: 1px solid red;
+}
+.bandeau {
+  background: url(/assets/img/fond-nuage.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flex-sof {
+  display: flex;
+  justify-content: center;
+}
